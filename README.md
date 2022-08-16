@@ -42,7 +42,7 @@ This is Telegram Parmanent HMTD Files Store Bot V4 by [@HMTD_Links](https://t.me
 [![Telegram](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://t.me/HMTD_Links)
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HMTD-Links/File-Store-Bot-V4)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KarthikTamilan/Files-Store-Bot-V4)
 
 ## Commands:
 ```
